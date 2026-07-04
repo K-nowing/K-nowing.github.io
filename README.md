@@ -8,7 +8,14 @@ https://K-nowing.github.io/
 
 ## Update Checklist
 
-Most academic content has been filled from the public Google Scholar profile:
+The homepage follows an al-folio-style academic layout with:
+
+- a fixed top navigation bar
+- profile image and short bio on the about page
+- selected publications on the about page
+- a full publication list at `/publications/`
+
+Academic content has been filled from the public Google Scholar profile:
 
 ```text
 https://scholar.google.co.kr/citations?user=PS_6As8AAAAJ&hl=en
