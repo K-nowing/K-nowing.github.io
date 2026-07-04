@@ -290,6 +290,13 @@ h2 a {
   text-align: center;
 }
 
+.preview {
+  display: block;
+  width: 100%;
+  height: auto;
+  margin-top: 0.6rem;
+}
+
 .badge {
   display: inline-block;
   min-width: 3rem;
