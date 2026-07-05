@@ -298,11 +298,6 @@ h2 a {
   margin-top: 0.6rem;
 }
 
-.highlight {
-  color: var(--global-theme-color);
-  font-weight: 600;
-}
-
 .badge {
   display: inline-block;
   min-width: 3rem;
